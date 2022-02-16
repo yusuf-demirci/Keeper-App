@@ -1,8 +1,8 @@
 # Keeper-App
 
-Live Site URL: [https://yusuf-demirci.github.io/Tic-Tac-Toe-Game/](https://yusuf-demirci.github.io/Tic-Tac-Toe-Game/)
+Live Site URL: [https://yusuf-demirci.github.io/Keeper-App/](https://yusuf-demirci.github.io/Keeper-App/)
 
-![./screenshot.png](./static/images/screenshot.png)
+![./screenshot.png](./static/js/images/screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
