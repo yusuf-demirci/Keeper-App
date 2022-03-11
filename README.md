@@ -1,8 +1,30 @@
 # Keeper-App
 
-Live Site URL: [https://yusuf-demirci.github.io/Keeper-App/](https://yusuf-demirci.github.io/Keeper-App/)
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the component depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Add and delete tasks
+
+### Screenshot
 
 ![./screenshot.png](./static/js/images/screenshot.png)
+
+### Links
+
+Live Site URL: [https://yusuf-demirci.github.io/Keeper-App/](https://yusuf-demirci.github.io/Keeper-App/)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox & Grid
+- Mobile-first workflow
+- React.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
